@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "setuptools_scm[toml]>=6.2"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "publish_test"
+name = "asjohnston_pypi_test"
 requires-python = ">=3.10"
 authors = [
     {name="Andrew Johnston", email="asjohnston@alaska.edu"},
